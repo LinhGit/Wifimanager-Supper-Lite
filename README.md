@@ -1,2 +1,2 @@
 # Wifimanager Lite
-Lightweight and elegant WiFiManager library.
+The wifi manager library simulation code is very light, simple and elegant .
